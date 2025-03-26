@@ -14,7 +14,7 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+A sentiment chatbot is an AI-powered chatbot that can analyze and respond to human emotions based on text input. It uses Natural Language Processing (NLP) and Sentiment Analysis techniques to determine whether a user’s message conveys positive, negative, or neutral emotions.
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
@@ -56,5 +56,8 @@ Describe the major technical or non-technical challenges your team encountered.
 - 🔹 Other: OpenAI API / Twilio / Stripe
 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+- **Sudha Mahendran**
+- **C R Karthik**
+- **Sapna Kumari**
+- **Swati Saxena**
+- **Shipra Jha**
